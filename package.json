@@ -1,0 +1,35 @@
+{
+  "name": "vendasslash",
+  "version": "1.0.0",
+  "description": "@zaleexis171 - https://discord.gg/lucks-community-c-2100-hallowen-1052030489260728331",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@zaleexis171",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "axios": "^1.1.3",
+    "better-sqlite3": "^7.6.2",
+    "canvas-constructor": "^7.0.0",
+    "cfonts": "^3.1.1",
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0",
+    "directory": "^0.1.0",
+    "discord.js": "^13.15.0",
+    "dotenv": "^16.0.1",
+    "mercadopago": "^1.5.15",
+    "model": "^6.0.1",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quick.db": "^9.0.6",
+    "randomstring": "^1.2.3",
+    "to": "^0.2.9",
+    "translate-google": "^1.5.0",
+    "wio.db": "^4.0.22"
+  },
+  "devDependencies": {}
+}
