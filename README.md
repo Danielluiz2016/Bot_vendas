@@ -18,12 +18,14 @@
 # PASSO A PASSO PARA CONFIGURAR A config.js
 1) "access_token": "", 
 1) "prefix": "/",
-1) "owner": "devvictoria",
-1) "logs": "1186533972050710608",
-1) "logs_staff": "1186533994477649950",
-1) "category": "1186534049553055784",
-1) "title": "Foxy Store",
+1) "owner": "ID DO OWNER",
+1) "logs": "Lohs de vendas para o público",
+1) "logs_staff": "Logs para staff",
+1) "category": "Categoria de Vendas",
+1) "title": "Nome da Loja",
 1) "color": "#9600ff",
 1) "banner": "",
 1) "thumbnail": "",
-1) "role": "1186534672684032010"
+1) "role": "Cargo de pós venda"
+
+# Não presto suporte para o bot no momento.
